@@ -37,14 +37,14 @@ I aim to improve my skills in Python and other languages. Currently focused on m
 
 ### 📈 GitHub Stats:
 
-<!-- Remplace ce GIF par un autre si tu veux un autre thème pour les stats -->
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b0/2e/a0/b02ea07f9fcf04ff938918ff2e18636a.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/71/e9/29/71e9292ea219d357f2a236ca94df7510.gif" width="500"/>
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natprog&show_icons=true&theme=dark" alt="Natprog's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Natprog&show_icons=true&theme=dark&cache_seconds=60" alt="Natprog's GitHub Stats"/>
 </p>
 
 ---
