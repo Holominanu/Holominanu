@@ -1,4 +1,4 @@
-<h1 align="center"> Hey! I'm Natprog c: </h1>
+<h1 align="center"> Hey! I'm Natprog 
 
 
 <p align="center">
