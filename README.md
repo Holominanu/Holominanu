@@ -36,15 +36,3 @@ I aim to improve my skills in Python and other languages. Currently focused on m
 
 
 
-
----
-
-
-### 🚀 Projects:
-- No public projects yet
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/26ueYXr2bONg1Y8ms/giphy.gif?cid=6c09b9520hbhj5dyl32gq1x9woo4g3ade0en7fth2m3mqfxg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="400"/>
-</p>
-
----
