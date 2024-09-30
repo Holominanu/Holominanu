@@ -2,15 +2,6 @@
 <p align="center">
   Check out my public projects <a href="https://github.com/Holominanu/public-projects-.git" target="_blank">here</a>.
 </p>
-
-
-
-
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/68/f3/b3/68f3b332bcc79b25a3bea981a7d86eee.gif" width="500"/>
-</p>
-
 ---
 
 ### 👤 About Me:
@@ -19,14 +10,10 @@
 - **Studying:** Mathematics 
 - **Passions:** 
   - Programming 🖥️
-
 ---
-
 ### 🎯 Goal
 I aim to improve my skills in Python and other languages. Currently focused on mastering mathematical concepts in Python. 
-
 ---
-
 ### 🛠️ Technologies & Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
