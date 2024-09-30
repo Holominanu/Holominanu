@@ -16,9 +16,6 @@
 
 ---
 
-
-$
-
 ### 🎯 Goal
 I aim to improve my skills in Python and other languages. Currently focused on mastering mathematical concepts in Python. 
 
