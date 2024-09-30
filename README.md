@@ -38,13 +38,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=holominanu&show_icons=true&locale=en&layout=compact" alt="holominanu" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=holominanu&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="holominanu" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=holominanu&show_icons=true&locale=en" alt="holominanu" />
+  <img src="https://github-readme-stats.vercel.app/api?username=holominanu&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="holominanu" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=holominanu&" alt="holominanu" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=holominanu&bg_color=000000&text_color=ffffff" alt="holominanu" />
 </p>
