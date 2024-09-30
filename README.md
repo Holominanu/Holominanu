@@ -2,7 +2,7 @@
 
 <!-- Remplace ce GIF par un autre si tu veux un autre thème -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/68/f3/b3/68f3b332bcc79b25a3bea981a7d86eee.gif" width="500"/>
 </p>
 
 ---
@@ -33,28 +33,11 @@ I aim to improve my skills in Python and other languages. Currently focused on m
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/>
 </p>
 
+
+
+
 ---
 
-### 📈 GitHub Stats:
-
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/71/e9/29/71e9292ea219d357f2a236ca94df7510.gif" width="500"/>
-</p>
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Natprog&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Natprog&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Natprog&show_icons=true" />
-</picture>
----
 
 ### 🚀 Projects:
 - No public projects yet
