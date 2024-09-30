@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there! I'm Natprog 👾🎮 </h1>
+<h1 align="center"> Hey! I'm Natprog c: </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="500"/>
@@ -8,11 +8,10 @@
 
 ### 👤 About Me:
 - **Age:** 19
-- **Studying:** CS student 💻 at Université de Versailles 🏫
+- **Country:** France 🇫🇷
+- **Studying:** CS student 💻 
 - **Passions:** 
   - Programming 🖥️
-  - Manga 🎌
-  - Cool projects & hacks 🔥
 
 ---
 
@@ -20,8 +19,8 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </p>
 
-### 🏓 Ping-Pong & Programming
-Sometimes, coding feels like a game of ping-pong 🏓 — fast-paced and thrilling! I love bringing the same energy and precision to my projects. Check out some of my repos to see what I'm working on!
+### 🎯 Goal
+I aim to improve my skills in Python and other languages. Currently focused on mastering mathematical concepts in Python. 
 
 ---
 
@@ -35,18 +34,33 @@ Sometimes, coding feels like a game of ping-pong 🏓 — fast-paced and thrilli
 
 ---
 
+### 📈 GitHub Stats:
+
 <p align="center">
   <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="500"/>
 </p>
 
-### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Natprog&show_icons=true&theme=dark" alt="Natprog's GitHub Stats"/>
 </p>
 
+####  My Ranking:
+Based on my contributions, here's where I rank in the GitHub "League":
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/3c/League_of_Legends_Bronze_Tier_Emblem.png" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/League_of_Legends_Silver_Tier_Emblem.png" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/League_of_Legends_Gold_Tier_Emblem.png" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/66/League_of_Legends_Platinum_Tier_Emblem.png" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a0/League_of_Legends_Diamond_Tier_Emblem.png" width="80"/>
+</p>
+
+_My current rank:_ **Gold**
+
+---
+
 ### 🚀 Projects:
-- [Awesome Project 1](https://github.com/Natprog/AwesomeProject1)
-- [Awesome Project 2](https://github.com/Natprog/AwesomeProject2)
+- No public projects yet
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
