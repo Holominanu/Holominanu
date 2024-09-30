@@ -2,7 +2,19 @@
 Check out my public projects [here](https://github.com/Holominanu/public-projects-.git). 
 
 
-<h1 align="center"> I'm Natprog 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p align="center">
