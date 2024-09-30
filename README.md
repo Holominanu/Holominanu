@@ -2,9 +2,9 @@
 <h3 align="center">CS/Maths Student</h3>
 
 ### My public projects
-[GitHub - Holominanu](https://github.com/Holominanu/public-projects-)
+[here](https://github.com/Holominanu/public-projects-)
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=holominanu" alt="holominanu" />
   </a> 
@@ -13,7 +13,7 @@
 - I’m currently learning **Mathematics, Computer Science**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
