@@ -2,8 +2,6 @@
 <p align="center">
   Check out my public projects <a href="https://github.com/Holominanu/public-projects-.git" target="_blank">here</a>.
 </p>
----
-
 ### 👤 About Me:
 - **Age:** 19
 - **Country:** France 🇫🇷
