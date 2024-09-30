@@ -3,10 +3,10 @@ Check out my public projects [here](https://github.com/Holominanu/public-project
 
 
 ### 📅 GitHub Activity Calendar
+
 <p align="center">
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Natprog&theme=react-dark&area=true)
 </p>
-
 
 
 
