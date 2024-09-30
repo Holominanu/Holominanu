@@ -43,10 +43,17 @@ I aim to improve my skills in Python and other languages. Currently focused on m
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natprog&show_icons=true&theme=dark&cache_seconds=60" alt="Natprog's GitHub Stats"/>
-</p>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Natprog&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Natprog&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Natprog&show_icons=true" />
+</picture>
 ---
 
 ### 🚀 Projects:
