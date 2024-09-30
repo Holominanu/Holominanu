@@ -46,5 +46,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=holominanu&bg_color=000000&text_color=ffffff" alt="holominanu" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=holominanu&theme=dark&bg_color=000000&text_color=ffffff" alt="holominanu" />
 </p>
