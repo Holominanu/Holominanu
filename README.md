@@ -1,4 +1,4 @@
-<h1 align="center">I'm Natprog</h1>
+<h1 align="center">Natprog</h1>
 <h3 align="center">CS/Maths Student</h3>
 
 ### My public projects
