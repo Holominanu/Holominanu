@@ -10,7 +10,7 @@
 ### 👤 About Me:
 - **Age:** 19
 - **Country:** France 🇫🇷
-- **Studying:** CS student 💻 
+- **Studying:** Mathematics 
 - **Passions:** 
   - Programming 🖥️
 
