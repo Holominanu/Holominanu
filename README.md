@@ -37,8 +37,8 @@
   </a>
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=holominanu&show_icons=true&locale=en&layout=compact" alt="holominanu" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=holominanu&show_icons=true&locale=en&layout=compact" alt="holominanu" />
 </p>
 
 <p align="center">
