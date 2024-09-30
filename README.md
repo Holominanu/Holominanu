@@ -1,21 +1,7 @@
-### 📁 My Public Repository
-Check out my public projects [here](https://github.com/Holominanu/public-projects-.git). 
-
-
-### 📅 GitHub Activity Calendar
-
+<h2 align="center"> 📁 My Public Repository </h2>
 <p align="center">
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Natprog&theme=react-dark&area=true)
+  Check out my public projects <a href="https://github.com/Holominanu/public-projects-.git" target="_blank">here</a>.
 </p>
-
-
-
-
-
-
-
-
-
 
 
 
