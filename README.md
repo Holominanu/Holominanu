@@ -1,5 +1,8 @@
 <h1 align="center">I'm Natprog</h1>
 <h3 align="center">CS/Maths Student</h3>
+### My public projects
+[GitHub - Holominanu](https://github.com/Holominanu/public-projects-)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=holominanu" alt="holominanu" /></a> </p>
 
